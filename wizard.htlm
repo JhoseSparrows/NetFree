@@ -1,9 +1,9 @@
 <htlm> 
 <body> 
-<p>name="NetFreeWizard"</p> 
-<p>url="https://github.com/JhoseSparrows/NetFree/blob/main/build.zip"</p> 
-<p>logo="https://github.com/JhoseSparrows/NetFree/blob/main/icon.png"</p> 
-<p>fanart="https://www.dropbox.com/s/jmw6bdt7ci6a4am/fanart.jpg?dl=0"</p> 
-<p>description="Actualizaciones"</p> 
+name="NetFreeWizard"
+url="https://github.com/JhoseSparrows/NetFree/blob/main/build.zip"
+logo="https://github.com/JhoseSparrows/NetFree/blob/main/icon.png"
+fanart="https://github.com/JhoseSparrows/NetFree/blob/main/fanart.jpg"
+description="Actualizaciones"
 </body> 
 </htlm>
