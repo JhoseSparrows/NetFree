@@ -2,8 +2,8 @@
 <body> 
 name="NetFreeWizard"
 url="https://github.com/JhoseSparrows/NetFree/blob/main/build.zip"
-logo="https://github.com/JhoseSparrows/NetFree/blob/main/icon.png"
-fanart="https://github.com/JhoseSparrows/NetFree/blob/main/fanart.jpg"
+logo="https://raw.githubusercontent.com/JhoseSparrows/NetFree/main/icon.png"
+fanart="https://raw.githubusercontent.com/JhoseSparrows/NetFree/main/fanart.jpg"
 description="Actualizaciones"
 </body> 
 </htlm>
